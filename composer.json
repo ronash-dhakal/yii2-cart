@@ -1,0 +1,22 @@
+{
+    "name": "ronash-dhakal/yii2-cart",
+    "description": "Yii2 extension that adds shopping cart functions forked from ronashDhakal",
+    "keywords": ["yii", "shopping cart"],
+	"license": "MIT",
+    "authors": [
+        {
+            "name": "Ronash Dhakal",
+            "email": "ronashmail@gmail.com"
+        }
+    ],
+    "type": "yii2-extension",
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ronashDhakal\\cart\\": ""
+        }
+    }
+}
