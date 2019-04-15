@@ -1,8 +1,9 @@
 {
     "name": "ronash-dhakal/yii2-cart",
-    "description": "Yii2 extension that adds shopping cart functions forked from ronashDhakal",
+    "description": "Yii2 extension that adds shopping cart functions",
     "keywords": ["yii", "shopping cart"],
 	"license": "MIT",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Ronash Dhakal",

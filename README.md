@@ -15,13 +15,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist ronashDhakal/yii2-cart "*"
+php composer.phar require --prefer-dist ronas-dhakal/yii2-cart "*"
 ```
 
 or add
 
 ```json
-"ronashDhakal/yii2-cart": "*"
+"ronash-dhakal/yii2-cart": "*"
 ```
 
 to the `require` section of your composer.json.
